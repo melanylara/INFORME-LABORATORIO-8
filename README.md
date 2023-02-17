@@ -88,7 +88,7 @@ f: 2500 (Hz)
 
 **8.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.**  
 
-¿Coinciden?  No ¿Por qué?  
+¿Coinciden?  No ¿Por qué? No coinciden ya que en el primer apartado se habla de un voltaje pico y en el otro es un voltaje rms o eficaz. En el osciloscopio obtenemos un valor pico mientras que para obtener el valor eficaz se divide para la raiz de 2, el multímetro digital ya nos proporciona este valor.  
 
  
 
