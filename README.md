@@ -83,7 +83,7 @@ f: 2500 (Hz)
 
 ω: 2π⋅2500=5000π (rad/s) 
 
-**8.5.7. Con el multímetro digital mida el voltaje de salida en RL:** 
+**8.5.7. Con el multímetro digital mida el voltaje de salida en RL:** 4.85 V
 
 
 **8.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.**  
